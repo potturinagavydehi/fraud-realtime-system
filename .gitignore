@@ -1,0 +1,15 @@
+# Dataset
+data/
+*.csv
+
+# Node
+node_modules/
+frontend/node_modules/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Environment
+.env
